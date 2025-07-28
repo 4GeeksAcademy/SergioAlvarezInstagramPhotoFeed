@@ -15,10 +15,19 @@ body {
 }
 
 .alto{
-  height: 200px;
   overflow: hidden;
-  
+  height: 15rem;
 }
+
+.foto {
+  width: 500px;
+  height: 300px;
+}
+
 .col-4{
-  padding: 2px;
+  padding: 1px;
+}
+
+.col-sm-6{
+  padding: 1px;
 }
